@@ -17,10 +17,10 @@ Quantum mechanics helps us understand chemistry, because it explains how atoms i
 
 ## HELLO!!!!!
 
-Vaporeon is the most compatible Pokémon for humans? Not only are they in the field egg group, which is mostly comprised of mammals, Vaporeon are an average of 3"03' tall and 63.9 pounds
+How old is that claim about Vaporeon? Haven't new Pokemon come out since then?
+//Vaporeon is the most compatible Pokémon for humans? Not only are they in the field egg group, which is mostly comprised of mammals, Vaporeon are an average of 3"03' tall and 63.9 pounds
 
 ## Hi
-
 
 Showing up to class with 30 minutes left and speedrunning a pull request.<br>
 
@@ -36,4 +36,5 @@ Showing up to class with 30 minutes left and speedrunning a pull request.
 
 ## Yooo
 i like cats
+
 
