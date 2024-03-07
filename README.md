@@ -1,10 +1,11 @@
 # pullrequest2024.1
 
-
+[Pull Request Youtube Tutorial link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
 hello!!! :3
 
 made this read me richer
 ![Screenshot_20230208_105007](https://github.com/realMartinM12345/assement-pullrequest/assets/159389563/a1eb480d-f6df-48ae-b214-cde9a3fd84db)
+![ms-teams_zkdJ0Iiy6J](https://github.com/EnterThenGo/pullrequest2024.1Fork/assets/159207350/71a7282e-2efb-40da-b6a8-8e47f90e18bc)
 
 
 Quantum mechanics is the study of matter and its interactions with energy on the scale of atomic and subatomic particles. By contrast, classical physics explains matter and energy only on a scale familiar to human experience, including the behavior of astronomical bodies such as the moon. Classical physics is still used in much of modern science and technology. However, towards the end of the 19th century, scientists discovered phenomena in both the large (macro) and the small (micro) worlds that classical physics could not explain.[1] The desire to resolve inconsistencies between observed phenomena and classical theory led to a revolution in physics, a shift in the original scientific paradigm:[2] the development of quantum mechanics.
@@ -16,10 +17,26 @@ Quantum mechanics helps us understand chemistry, because it explains how atoms i
 
 ## HELLO!!!!!
 
-Vaporeon is the most compatible Pokémon for humans? Not only are they in the field egg group, which is mostly comprised of mammals, Vaporeon are an average of 3"03' tall and 63.9 pounds
+How old is that claim about Vaporeon? Haven't new Pokemon come out since then?
+//Vaporeon is the most compatible Pokémon for humans? Not only are they in the field egg group, which is mostly comprised of mammals, Vaporeon are an average of 3"03' tall and 63.9 pounds
 
 :(
 
 ## Hi
 
+Showing up to class with 30 minutes left and speedrunning a pull request.<br>
+
+
+
+## WELCOME TO MY TED TALK 
+Here I will talk about why you should play titanfall 2 firstly it is good (wow), the campaign is very good (very cool respawn), better than stinky apex (I have played alot of apex), multiplayer is a lot of fun (the serevers have some issues), almost always on sale for like $7 (very epic)<br>
+thanks for listening now go and get the game :) <br>
+[CLICK THIS](https://store.steampowered.com/app/1237970/Titanfall_2/)
+
+
 Showing up to class with 30 minutes left and speedrunning a pull request.
+
+## Yooo
+i like cats
+
+
