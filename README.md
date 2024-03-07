@@ -1,6 +1,6 @@
 # pullrequest2024.1
 
-uwu <br>
+[Pull Request Youtube Tutorial link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 hello!!! :3
 
 made this read me richer
