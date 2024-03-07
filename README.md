@@ -21,7 +21,19 @@ Vaporeon is the most compatible Pokémon for humans? Not only are they in the fi
 
 ## Hi
 
+
+Showing up to class with 30 minutes left and speedrunning a pull request.<br>
+
+
+
+## WELCOME TO MY TED TALK 
+Here I will talk about why you should play titanfall 2 firstly it is good (wow), the campaign is very good (very cool respawn), better than stinky apex (I have played alot of apex), multiplayer is a lot of fun (the serevers have some issues), almost always on sale for like $7 (very epic)<br>
+thanks for listening now go and get the game :) <br>
+[CLICK THIS](https://store.steampowered.com/app/1237970/Titanfall_2/)
+
+
 Showing up to class with 30 minutes left and speedrunning a pull request.
 
 ## Yooo
 i like cats
+
