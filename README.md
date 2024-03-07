@@ -1,10 +1,11 @@
 # pullrequest2024.1
 
-
+[Pull Request Youtube Tutorial link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
 hello!!! :3
 
 made this read me richer
 ![Screenshot_20230208_105007](https://github.com/realMartinM12345/assement-pullrequest/assets/159389563/a1eb480d-f6df-48ae-b214-cde9a3fd84db)
+![ms-teams_zkdJ0Iiy6J](https://github.com/EnterThenGo/pullrequest2024.1Fork/assets/159207350/71a7282e-2efb-40da-b6a8-8e47f90e18bc)
 
 
 Quantum mechanics is the study of matter and its interactions with energy on the scale of atomic and subatomic particles. By contrast, classical physics explains matter and energy only on a scale familiar to human experience, including the behavior of astronomical bodies such as the moon. Classical physics is still used in much of modern science and technology. However, towards the end of the 19th century, scientists discovered phenomena in both the large (macro) and the small (micro) worlds that classical physics could not explain.[1] The desire to resolve inconsistencies between observed phenomena and classical theory led to a revolution in physics, a shift in the original scientific paradigm:[2] the development of quantum mechanics.
