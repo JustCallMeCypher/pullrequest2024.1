@@ -1,0 +1,3 @@
+I made a pull request and added a folder and this changes.md file. I also added a sentence to the README.md.
+
+To view changes made in a commit, you can use the git status command to view what you have added to your current commit. If you have already made the commit, you can view it on Github by pressing the Commits button to view all of the commits, and pressing on a specific commit to view the changes. Alternatively, you can press a message next to a file or folder to view all of the changes made in that particular commit.
