@@ -1,7 +1,7 @@
 # pullrequest2024.1
 
 [Pull Request Youtube Tutorial link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
-hello!!! :3
+hello!!! :3   ^ evil youtube link (XcQ)
 
 made this read me richer
 ![Screenshot_20230208_105007](https://github.com/realMartinM12345/assement-pullrequest/assets/159389563/a1eb480d-f6df-48ae-b214-cde9a3fd84db)
@@ -42,3 +42,11 @@ i like cats
 
 ## Hello
 hello
+
+
+## Goblins
+"You'll...  ...kill the Children too...?" - Priestess Speaking<br>
+"Of course I will. We've destroyed their nest. They'll never forget that. And the survivors of a nest learn, become smarter. There is no reason to let them live." - Goblin Slayer Speaking<br>
+"Wh... What if it were a good goblin......?" - Priestess Speaking<br>
+"A good goblin? There might be one, if we looked. But I think... ...The only good goblins are the ones who never come out of their stinking holes. That's twenty-two" - Goblin Slayer Speaking<br>
+Conversation between Priestess and Goblin Slayer Vol 1 Chap 2

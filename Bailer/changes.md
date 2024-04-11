@@ -1,0 +1,3 @@
+indicated that the youtube link at the top was evil as well as adding referencing a conversation on lines 47 - 52. I also made this folder with this changes.md file.
+
+using github for already pushed commits you can view by clicking on the message next to them, if you are the owner of a repository you can view commits on the insights tab then under commit although this requires git hub pro or the repo to be public. If the commit has not been pushed yet then simply use git status to view the changes that have been made in that commit. 
